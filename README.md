@@ -5,7 +5,7 @@
     <b>Welcome to my profile!</b><br><br>
     <i>
      My name is Nakari<br>
-     i am spanish earlier developer with basic/mid knowledge If i an issue in any of my codes please let me know
+     I am spanish earlier developer with basic/mid knowledge If i an issue in any of my codes please let me know
     </i><br>
 
 ### Languages
