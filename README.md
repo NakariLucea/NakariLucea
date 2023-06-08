@@ -10,11 +10,13 @@
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/NakariLucea)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/NakariLucea)
 [![Php](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/NakariLucea)
+
+###  Learning  
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/NakariLucea)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/NakariLucea)
-  
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/NakariLucea)    
+    
 ### Technologies & Frameworks
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/NakariLucea)
 [![Flask](https://img.shields.io/badge/react-black?style=for-the-badge&logo=flask)](https://github.com/NakariLucea)
