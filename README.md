@@ -21,9 +21,9 @@
 
     
 ### Frameworks and Technologies
- [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Nakaril)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Nakaril)
 [![CSS3](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3)](https://github.com/Nakaril)
-[![Flask](https://img.shields.io/badge/react-black?style=for-the-badge&logo=flask)](https://github.com/Nakaril)
+[![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)](https://github.com/Nakaril)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Nakaril)
