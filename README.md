@@ -31,5 +31,5 @@
     
     
 ### Contact
-[![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=Gmail)](pablolucea63@gmail.com)    
+[![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=Gmail)](mailto:pablolucea63@gmail.com) 
     
