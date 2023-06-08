@@ -12,16 +12,18 @@
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/NakariLucea)
 [![Php](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/NakariLucea)
 
-###  Learning  
+### Learning at the moment
+[![Kali-linux](https://img.shields.io/badge/kali-black?style=for-the-badge&logo=Kali-linux)](https://github.com/NakariLucea)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/NakariLucea)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/NakariLucea)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/NakariLucea)    
-    
-### Technologies & Frameworks
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/NakariLucea)
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/NakariLucea)
-[![Flask](https://img.shields.io/badge/react-black?style=for-the-badge&logo=flask)](https://github.com/NakariLucea)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/NakariLucea)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/NakariLucea)
+
+    
+### Frameworks and Technologies
+ [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/NakariLucea)
 [![CSS3](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3)](https://github.com/NakariLucea)
+[![Flask](https://img.shields.io/badge/react-black?style=for-the-badge&logo=flask)](https://github.com/NakariLucea)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/wervlad)
