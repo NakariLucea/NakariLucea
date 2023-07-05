@@ -13,7 +13,6 @@
 [![Php](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/Nakaril)
 
 ### Learning at the moment
-[![Kali-linux](https://img.shields.io/badge/kali-black?style=for-the-badge&logo=Kali-linux)](https://github.com/Nakaril)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/Nakaril)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Nakaril)
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/Nakaril)
@@ -26,6 +25,7 @@
 [![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)](https://github.com/Nakaril)
 
 ### OS
+[![Kali-linux](https://img.shields.io/badge/kali-black?style=for-the-badge&logo=Kali-linux)](https://github.com/Nakaril)
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Nakaril)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Nakaril)
     
