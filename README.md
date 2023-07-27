@@ -16,7 +16,7 @@
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=gnu-java&logoColor=white)](https://github.com/Nakaril)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Nakaril)
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/Nakaril)
-[![SQLite](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Nakaril)
+[![SQLite](https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite)](https://github.com/Nakaril)
 
     
 ### Frameworks and Technologies
