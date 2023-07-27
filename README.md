@@ -13,10 +13,10 @@
 [![Php](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/Nakaril)
 
 ### Learning at the moment
-[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/Nakaril)
+[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=gnu-java&logoColor=white)](https://github.com/Nakaril)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Nakaril)
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/Nakaril)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Nakaril)
+[![SQLite](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Nakaril)
 
     
 ### Frameworks and Technologies
